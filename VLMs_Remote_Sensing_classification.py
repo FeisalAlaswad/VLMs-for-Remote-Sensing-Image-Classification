@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import os
-os.environ['KAGGLE_API_TOKEN'] = 'KGAT_d1ca81f52ce7e0566dd7581667088132'
+os.environ['KAGGLE_API_TOKEN'] = 'YOUR_KEY_HERE'
 
 !pip install -U kaggle
 
